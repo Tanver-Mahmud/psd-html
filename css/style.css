@@ -1,0 +1,122 @@
+.head{
+    background-color: #FCDB00;
+    height: 114px;
+}
+.social-list{
+    margin-top: 10px;
+    text-decoration: none;
+}
+.social-list ul{}
+.social-list ul li{
+    margin-left: 92px;
+}
+
+.social-list ul li a{color: black;font-weight: bolder;}
+.banner{background-color: #FCDB00;height: 442px;}	
+.banner-content{margin-top: 114px;}
+.picture{margin-left: 184px;
+    margin-top: 53px;
+}
+.picture img{
+    height: 346px;
+}
+.contentwow{
+    text-align: center;
+    margin-top: 80px;
+}
+.diffrent-content{margin-top: 51px;} 
+.diffrent-content h4{}
+.diffrent-content a{}
+
+.tablet{
+    margin-bottom: 37px;
+    /* margin-right: -9px; */
+}
+.lemon{}
+/*.folder{}*/
+.button-12{
+    text-align: center;
+    padding-top: 22px;
+}
+
+.button-12 input{
+/*    padding-left: 110px;*/
+}
+
+.footer1{margin-top: 203px;/* background-color: black; *//* height: 81px; */padding-top: 84px;}
+.footer1 p{
+    color: white;
+}
+.facebook{
+    /* margin-right: 10px; */
+    margin-left: 508px;
+    margin-top: -2px;
+    padding-bottom: 27px;
+    padding-top: 0px;
+}
+.facebook i{}
+.last{}
+.cool{padding-right: 96px;}
+.cool ul{
+    text-decoration: none;
+    list-style: none;}
+ .cool ul li{}
+.cool ul li a{
+    color: white;
+}
+
+.cool1{padding-right: 96px;}
+.cool1 ul{
+    list-style: none;}
+
+.cool1 ul li{}
+.cool1 ul li a{
+    color: white;
+}
+.cool2{padding-right:100px;}
+.cool2 ul{
+    list-style: none;}
+
+.cool2 ul li{}
+.cool2 ul li a{
+    color: white;
+}
+.cool3{padding-right: 84px;}
+.cool3 ul{
+    list-style: none;}
+
+.cool3 ul li {}
+.cool3 ul li a{
+    color: white;
+}
+.cool4{padding-right: 62px;}
+.cool4 ul{
+    list-style: none;}
+
+.cool4 ul li a{}
+.cool4 ul li a{
+    color: white;
+    }
+.footer1 b{
+    color: #FCDB00;
+}
+.war{
+    background-color: black;
+    height: 277px;
+    padding-top: 95px;
+}
+.color{
+    background-color: black;
+    height: 177px;
+}.insta{
+    background-color: black;
+    height: 91px;
+    padding-top: 41px;
+}
+.insta a{
+    /* padding-left: 1px; */
+    padding-right: 10px;
+}
+.banner-content ul li a{
+    padding-left: 18px;
+}
